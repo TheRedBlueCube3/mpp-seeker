@@ -1,3 +1,6 @@
 .vscode
-src/config.json
-users.db
+config.json
+**/db
+conversation.txt
+.prettierrc
+TODO.md

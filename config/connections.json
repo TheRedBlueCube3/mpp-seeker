@@ -1,0 +1,15 @@
+{
+	"wss://mppclone.com:8443": {
+		"user": {
+			"name": "|| Databasic ||",
+			"color": "#777777"
+		},
+		"channels": ["✧𝓓𝓔𝓥 𝓡𝓸𝓸𝓶✧", "test/databasic", "test/awkward"]
+	},
+	"wss://mpp.hri7566.info:8443": {
+		"user": {
+			"name": "|| Databasic ||"
+		},
+		"channels": ["test/fishing"]
+	}
+}

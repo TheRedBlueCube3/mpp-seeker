@@ -1,8 +1,0 @@
-{
-	"commandTypes": {
-		"short": "Display Name",
-		"fun": "Fun",
-		"gen": "General",
-		"adm": "Admin"
-	}
-}

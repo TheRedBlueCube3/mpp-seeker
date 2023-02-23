@@ -2,7 +2,8 @@
 
 This is a _seeker_ bot! This means it can collect IDs, names, etc.  
 Runs on Deno.
-Here is a step by step tutorial for setting up the bot:
+
+## Setting up the bot
 
 1. Installing Deno
 
@@ -34,3 +35,9 @@ Run the bot in `powershell` or `cmd`. Any command processor works.
 Then, run `deno run --allow-net index.ts`. Make sure you're in the root folder of the bot.
 
 Tada, you're _all done_!
+
+## Contributing
+
+If you're in a live share session (I know, it's bad), use `conversation.txt` for communication, since the chat window is extremely unreliable.
+
+The contents of `TODO.md` should be clear.
