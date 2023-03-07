@@ -11,10 +11,10 @@ This involves installing Deno. To see how to install Deno, see the [Deno install
 
 2. Setting up the bot
 
--   config.json  
-    The config file is the most necessary part of every bot. It contains the token, name, etc.
-    To make a config file, create a `config.json` file. _(in the `src` folder)_  
-    Then, fill the contents of the `config.json` file with this:
+- config.json  
+  The config file is the most necessary part of every bot. It contains the token, name, etc.
+  To make a config file, create a `config.json` file. _(in the `src` folder)_  
+  Then, fill the contents of the `config.json` file with this:
 
 ```json
 {
@@ -26,8 +26,8 @@ This involves installing Deno. To see how to install Deno, see the [Deno install
 }
 ```
 
--   users.db  
-    Just create a users.db file. The `index.ts` file will automatically fill it in. (should be in db folder)
+- users.db  
+  Just create a users.db file. The `index.ts` file will automatically fill it in. (should be in db folder)
 
 3. Run the bot
 
@@ -41,3 +41,7 @@ Tada, you're _all done_!
 If you're in a live share session (I know, it's bad), use `conversation.txt` for communication, since the chat window is extremely unreliable.
 
 The contents of `TODO.md` should be clear.
+
+## Help/Contact
+
+To contact TheRedBlueCube3, email _theredbluecube2@gmail.com_.
